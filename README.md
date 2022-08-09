@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Harshil
-#### I am New in Tech feild and learning computer languages and tools by myself which are:
+#### I am New in Tech feild and learning computer languages and tools by myself.
 
 <!--
 **iamharshil/iamharshil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
