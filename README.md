@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Harshil Chudasama.
-- I am junior Next.JS Developer
+- I am Next.JS Developer
 - I want to create something beautiful that world will appreciate and ofc I want to work at ([@Netflix](https://github.com/netflix)) too, So wish me luck.!!
 
 ### Frameworks, languages and tools that I use as my daily drivers.
